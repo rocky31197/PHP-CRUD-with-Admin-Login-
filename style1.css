@@ -1,0 +1,20 @@
+
+    .fa-edit{
+      background-color: DodgerBlue;
+      border: none;
+      border-radius: 5px;
+      color: white;
+      padding: 12px 16px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    .fa-trash{
+       
+      border: none;
+      border-radius: 5px;
+      color: black;
+      padding: 12px 16px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+ 
